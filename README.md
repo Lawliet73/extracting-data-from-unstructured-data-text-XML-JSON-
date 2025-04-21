@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a series of Python scripts that showcase various techniques for parsing, cleaning, and analyzing different types of data. These scripts demonstrate skills in handling structured and unstructured data in formats like **XML**, **JSON**, **HTML**, and **plain text**, using Python libraries and methods such as **regular expressions**, **BeautifulSoup**, and **urllib**.
 
-Each script retrieves data from a URL or a file, processes and extracts relevant information, and performs specific calculations, like summing numbers from the data. This demonstrates the ability to handle diverse data types, making this repository a valuable showcase of my data parsing and analysis skills for potential employers.
+Each script retrieves data from a URL or a file, processes and extracts relevant information, and performs specific calculations, like summing numbers from the data. This demonstrates the ability to handle diverse data types, making this repository a valuable showcase of data parsing and analysis skills.
 
 ---
 ## Table of Contents
